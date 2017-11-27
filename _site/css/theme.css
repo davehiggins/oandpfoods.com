@@ -118,7 +118,7 @@ blockquote {
   color: white !important;
 }
 .highlight {
-  color: #008080;
+  color: #0b9444;
 }
 .vertical-align {
   margin: 100px 0;
@@ -320,7 +320,7 @@ blockquote {
   padding: 1em 0;
 }
 .navbar .navbar-nav .current > a {
-  color: #008080 !important;
+  color: #0b9444 !important;
 }
 .navbar .nav > li > a:hover,
 .navbar .nav > li > a:focus {
@@ -435,7 +435,7 @@ blockquote {
   color: #88b7b3 !important;
 }
 .cbp-af-header .nav a:hover {
-  color: #008080;
+  color: #0b9444;
   background: none;
 }
 /* Transitions and class for reduced height */
@@ -1500,7 +1500,7 @@ section h3 {
   font-size: 1em;
   font-weight: 600;
   text-transform: uppercase;
-  color: #008080;
+  color: #0b9444;
   letter-spacing: 1px;
 }
 section p {
@@ -1522,7 +1522,7 @@ section.dark {
   background: #2b2d35;
 }
 section.dark.with-bg {
-  background: url('../img/renderedw.jpg') center center no-repeat;
+  background: url('../img/oliopanefront.jpg') center center no-repeat;
   background-size: cover;
 }
 section.dark h1,
@@ -2158,7 +2158,7 @@ footer.footer .icon {
   width: 140px;
   height: 140px;
   border-radius: 50%;
-  background-color: #008080;
+  background-color: #0b9444;
   text-align: center;
   margin: 2em auto 0;
   padding: 3em 0;
