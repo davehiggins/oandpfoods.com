@@ -1,0 +1,81 @@
+---
+# Site settings
+#Jekyll does not parse changes to _config.yml in watch mode, you must restart Jekyll to see changes to variables.
+title: O&P Foods
+logo_title: O&P Foods
+email: contact@oandpfoods.com
+description:
+  Olio & Pane - Tuscan Trattoria
+baseurl: / # the subpath of your site, e.g. /blog/
+url: http://oandpfoods.com # the base hostname & protocol for your site
+
+
+intro_h2:
+  We Specialise in....
+intro_h1:
+    Sourcing and Importing High Quality Home Renovation and Building Products.
+intro_para:
+   For customers in the USA and Australia.
+
+###### ------- About
+
+about_h2:
+  WHAT GUIDES AND DRIVES US
+
+# About A
+about_h3_a:
+  HIGH QUALITY PRODUCTS
+about_p_a:
+  The quality of our products is reflected in their beautiful design, functionality and reliability.
+about_p_a2:
+  We ensure our products meet or exceed all relevant safety and quality standards.
+
+# About b
+about_h3_b:
+  GREAT MANUFACTURING PARTNERS
+about_p_b:
+  Our suppliers are crucial for achieving and maintaining high quality products.
+about_p_b2:
+  We partner with suppliers and manufacturers who share our high standards.
+
+# About c
+about_h3_c:
+  CUSTOMER FOCUSED
+about_p_c:
+  We aim to exceed our customers’ expectations of our products and service.  
+about_p_c2: 
+  Through our online sales channels we are able to reach customers across a variety of locations.
+
+######-----Products
+
+products_h2:
+  OUR PRODUCTS...
+products_p:
+  Are both stylish and functional. They include items selected for their beautiful design that become key features in a home as well as practical items most commonly needed by renovators and builders.
+
+
+#####----- Values
+
+values_h3_a:
+  PREMIUM QUALITY PRODUCTS
+values_h3_b:
+  HOME RENOVATION AND BUILDING INDUSTRIES
+values_h3_c:
+  STRONG BUSINESS RELATIONSHIPS
+
+
+#Intro
+facebook_link: https://www.facebook.com//
+twitter_link: https://twitter.com/Instaprop
+twitter_username: instaprop
+googleplus_link: https://plus.google.com/+Instaprop
+linkedin_link: https://www.linkedin.com/company-beta/18199103/
+instagram_link: https://www.instagram.com/insta_prop/
+
+
+
+# Build settings
+markdown: kramdown
+
+
+---
