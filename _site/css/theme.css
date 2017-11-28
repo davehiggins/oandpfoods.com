@@ -1280,7 +1280,7 @@ section .login-overlay {
   bottom: 0;
   opacity: 1;
   background: rgba(0, 0, 0, 0.5);
-  background: -webkit-radial-gradient(50% 55%, ellipse closest-corner, rgba(0, 0, 0, 0.57) 1%, rgba(0, 0, 0, 0.8) 100%);
+  background: -webkit-radial-gradient(50% 55%, ellipse closest-corner, rgba(0, 0, 0, 0.11) 1%, rgba(0, 0, 0, 0.8) 100%);
   background: -moz-radial-gradient(50% 55%, ellipse closest-corner, rgba(0, 0, 0, 0.57) 1%, rgba(0, 0, 0, 0.8) 100%);
   background: -ms-radial-gradient(50% 55%, ellipse closest-corner, rgba(0, 0, 0, 0.57) 1%, rgba(0, 0, 0, 0.8) 100%);
   background: radial-gradient(50% 55%, ellipse closest-corner, rgba(0, 0, 0, 0.57) 1%, rgba(0, 0, 0, 0.8) 100%);
@@ -1522,7 +1522,7 @@ section.dark {
   background: #2b2d35;
 }
 section.dark.with-bg {
-  background: url('../img/oliopanefront.jpg') center center no-repeat;
+  background: url('../img/Antipasto.png') center center no-repeat;
   background-size: cover;
 }
 section.dark h1,
