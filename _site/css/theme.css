@@ -1522,9 +1522,14 @@ section.dark {
   background: #2b2d35;
 }
 section.dark.with-bg {
+  background: url('../img/Bruschetta.png') center center no-repeat;
+  background-size: cover;
+}
+section.dark.with-bgabout {
   background: url('../img/Antipasto.png') center center no-repeat;
   background-size: cover;
 }
+
 section.dark h1,
 section.dark h2,
 section.dark h4,

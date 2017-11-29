@@ -6,8 +6,12 @@ logo_title: O&P Foods
 email: contact@oandpfoods.com
 description:
   Olio & Pane - Tuscan Trattoria
-baseurl: /oandpfoods.com/ # the subpath of your site, e.g. /blog/
+#baseurl: /oandpfoods.com/ # the subpath of your site, e.g. /blog/
+baseurl: / # the subpath of your site, e.g. /blog/
 url: https://davehiggins.github.io/oandpfoods.com # the base hostname & protocol for your site
+
+intro_logoimgfilename:
+  oandplogo.png
 
 
 intro_h2:
@@ -15,44 +19,61 @@ intro_h2:
 intro_h1:
     O&P Foods is a specialist retail & wholesale grocery importer, entrusted with some of the finest international and local food brands.
 intro_para:
-   
+
+intro_bgimgfilename:
+  freshpastaweb.png
+
 
 ###### ------- About
 
 about_h2:
   WHAT GUIDES AND DRIVES US
+about_bgimagefilename:
+  oliopanefront.jpg
 
 # About A
 about_h3_a:
   HIGH QUALITY PRODUCTS
 about_p_a:
-  The quality of our products is reflected in their beautiful design, functionality and reliability.
-about_p_a2:
-  We ensure our products meet or exceed all relevant safety and quality standards.
+  The quality of our products is reflected in their beauty.
+#about_p_a2:
+  #We ensure our products meet or exceed all relevant safety and quality standards.
 
 # About b
 about_h3_b:
-  GREAT MANUFACTURING PARTNERS
+  WORLD CLASS FOOD PRODUCERS
 about_p_b:
-  Our suppliers are crucial for achieving and maintaining high quality products.
+  Integrity & passion are the critical elements of all our selected food producer & supply partners.
 about_p_b2:
-  We partner with suppliers and manufacturers who share our high standards.
+  We partner only with those producers and manufacturers who share our high standards.
 
 # About c
 about_h3_c:
   CUSTOMER FOCUSED
 about_p_c:
-  We aim to exceed our customers’ expectations of our products and service.  
+  We aim to always exceed our customers’ expectations of our quality food products and service.  
 about_p_c2: 
-  Through our online sales channels we are able to reach customers across a variety of locations.
+  Our international network ensures you have the most efficient supply chain and industry leading turnaround times.
 
 ######-----Products
 
 products_h2:
-  OUR PRODUCTS...
+  OUR SERVICES...
 products_p:
-  Are both stylish and functional. They include items selected for their beautiful design that become key features in a home as well as practical items most commonly needed by renovators and builders.
+  We connect the world’s best food producers with buyers, facilitating product development while offering global end-to-end procurement, import & local delivery service.
+products_bgimagefilename:
+  Bruschetta.png
 
+######-------Contact
+
+contact_h2:
+  
+contact_h1:
+    O&P Foods is a specialist retail & wholesale grocery importer, entrusted with some of the finest international and local food brands.
+intro_para:
+
+contact_bgimgfilename:
+  Antipasto.png
 
 #####----- Values
 
@@ -68,7 +89,6 @@ values_h3_c:
 facebook_link: https://www.facebook.com//
 twitter_link: https://twitter.com/Instaprop
 twitter_username: instaprop
-googleplus_link: https://plus.google.com/+Instaprop
 linkedin_link: https://www.linkedin.com/company-beta/18199103/
 instagram_link: https://www.instagram.com/insta_prop/
 
