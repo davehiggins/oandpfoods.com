@@ -6,7 +6,7 @@ logo_title: O&P Foods
 email: contact@oandpfoods.com
 description:
   Olio & Pane - Tuscan Trattoria
-baseurl: / # the subpath of your site, e.g. /blog/
+baseurl: /oandpfoods.com/ # the subpath of your site, e.g. /blog/
 url: https://davehiggins.github.io/oandpfoods.com # the base hostname & protocol for your site
 
 
