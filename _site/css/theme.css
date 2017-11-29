@@ -1525,10 +1525,6 @@ section.dark.with-bg {
   background: url('../img/Bruschetta.png') center center no-repeat;
   background-size: cover;
 }
-section.dark.with-bgabout {
-  background: url('../img/Antipasto.png') center center no-repeat;
-  background-size: cover;
-}
 
 section.dark h1,
 section.dark h2,

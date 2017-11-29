@@ -17,7 +17,7 @@ intro_logoimgfilename:
 intro_h2:
   
 intro_h1:
-    O&P Foods is a specialist retail & wholesale grocery importer, entrusted with some of the finest international and local food brands.
+    O&P Foods is a specialist retail, wholesale and private label grocery importer. Offering a range of the finest international and local food brands.
 intro_para:
 
 intro_bgimgfilename:
@@ -35,15 +35,15 @@ about_bgimagefilename:
 about_h3_a:
   HIGH QUALITY PRODUCTS
 about_p_a:
-  The quality of our products is reflected in their beauty.
-#about_p_a2:
-  #We ensure our products meet or exceed all relevant safety and quality standards.
+  Award winning single varietal organic EVOO, traditional tomato and vegetable products and specialty fresh pasta retail lines.
+about_p_a2:
+  O&P Foods is also a procurement and supply specialist to the wholesale, foodservice, QSR and food manufacturing sectors.quality standards.
 
 # About b
 about_h3_b:
   WORLD CLASS FOOD PRODUCERS
 about_p_b:
-  Integrity & passion are the critical elements of all our selected food producer & supply partners.
+  Passion with integrity are the core elements of all our selected food supply partners.
 about_p_b2:
   We partner only with those producers and manufacturers who share our high standards.
 
@@ -51,7 +51,7 @@ about_p_b2:
 about_h3_c:
   CUSTOMER FOCUSED
 about_p_c:
-  We aim to always exceed our customers’ expectations of our quality food products and service.  
+  We aim to always exceed our customers’ expectations for quality food products and service.  
 about_p_c2: 
   Our international network ensures you have the most efficient supply chain and industry leading turnaround times.
 
@@ -60,7 +60,7 @@ about_p_c2:
 products_h2:
   OUR SERVICES...
 products_p:
-  We connect the world’s best food producers with buyers, facilitating product development while offering global end-to-end procurement, import & local delivery service.
+  We connect buyers with the world’s best food producers, facilitationg product development and offering global procurement, import & local delivery solutions.
 products_bgimagefilename:
   Bruschetta.png
 
