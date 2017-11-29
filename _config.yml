@@ -43,18 +43,19 @@ about_p_a2:
 about_h3_b:
   WORLD CLASS FOOD PRODUCERS
 about_p_b:
-  Passion with integrity are the core values of all our chosen food supply partners.
-about_p_b2:
   We partner only with those producers and manufacturers who share our high standards.
+about_p_b2:
+  Passion with integrity are the core values of all our chosen food supply partners.
 
 # About c
 about_h3_c:
   CUSTOMER FOCUSED
 about_p_c:
-  Our international network ensures access to the most efficient supply chains with industry leading turnaround times.  
-about_p_c2: 
-  We aim to always exceed our customers’ expectations for quality food products and service.
+  We aim to always exceed our customers’ expectations for quality food products and service.  
+about_p_c2:
+  Our international network ensures access to the most efficient supply chains with industry leading turnaround times.
   
+
 ######-----Products
 
 products_h2:
